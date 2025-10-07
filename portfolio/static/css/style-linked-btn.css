@@ -1,0 +1,19 @@
+/* style-linked-btn.css */
+#loadLinkedInBtn {
+    padding: 10px 20px;
+    background-color: #0077b5;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+#loadLinkedInBtn:hover {
+    background-color: #005b8c;
+}
+
+/* Optional: Style the iframe container */
+#iframeContainer {
+    margin-top: 20px;
+}
